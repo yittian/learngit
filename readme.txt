@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 dev changes.
 learngit2 added.
-learngit modified.
+learngit & learngit2 modified.
